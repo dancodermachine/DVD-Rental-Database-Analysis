@@ -31,6 +31,6 @@ questions in a visual way.
 
 ## Credits
 
-Udacity.com
-Postgresqltutorial.com
+* Udacity.com
+* Postgresqltutorial.com
 

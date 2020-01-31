@@ -26,8 +26,8 @@ questions in a visual way.
 
 ## Files Used
 
-[Entity-Relationship Diagram](https://www.postgresqltutorial.com/postgresql-sample-database/)
-[DVD Rental Data Base](https://www.postgresqltutorial.com/postgresql-sample-database/)
+1. [Entity-Relationship Diagram](https://www.postgresqltutorial.com/postgresql-sample-database/)
+2. [DVD Rental Data Base](https://www.postgresqltutorial.com/postgresql-sample-database/)
 
 ## Credits
 

@@ -6,9 +6,7 @@
 
 ## Description
 
-This database holds data about a company that rents DVDs. Queries have been written to obtain a better
-understanding of the data. An Entity-Relationship Diagram was used as guidance to join the different
-entities of the database. Queries were written in order to answer the following questions: 
+This database holds data about a company that rents DVDs. Queries have been written in PostgreSQL and used to obtain a better understanding of the data. An Entity-Relationship Diagram was used as guidance to join the different entities of the database. Queries were written in order to answer the following questions: 
 
 * What family-friendly movie categories are families watching most?
 * What is the maximum, minimum and average rental duration of family-friendly movies?

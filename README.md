@@ -14,7 +14,7 @@ This database holds data about a company that rents DVDs. Queries have been writ
 * What is the payment behavior of the top 10 customers?
 
 The queried data was then downloaded as .csv files. Next, we have plot graphs about the data using
-Microsoft Excel. Finally, we made a PowerPoint presentation in order to show our answers to the four
+Microsoft Excel. Finally, a PowerPoint presentation was made in order to show the answers to the four
 questions in a visual way.   
 
 ## Software Used
